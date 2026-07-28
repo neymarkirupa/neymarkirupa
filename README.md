@@ -1,12 +1,12 @@
-<!-- Header Banner -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="assets/banner.png" alt="Laura's Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Kiruba%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Student%20Entrepreneur%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 </p>
 
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://github.com/neymarkirupa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Laura!;%F0%9F%92%BB+Python+Developer+%7C+AI+Enthusiast;%F0%9F%9A%80+Building+cool+stuff+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%F0%9F%9A%80+Building+Nextsell+%E2%80%94+Digital+Products+for+Students;%F0%9F%A4%96+AI+Tools+%7C+n8n+Automation+%7C+FastAPI;%F0%9F%8C%9F+Teaching+students+how+to+make+their+first+sale!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,129 +16,148 @@
     <img src="https://img.shields.io/github/followers/neymarkirupa?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
   &nbsp;
-  <a href="https://github.com/neymarkirupa">
-    <img src="https://komarev.com/ghpvc/?username=neymarkirupa&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=neymarkirupa&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <a href="http://buymeacoffee.com/laura11">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  <a href="https://nextsell.store">
+    <img src="https://img.shields.io/badge/🛒%20Nextsell-Visit%20Store-A855F7?style=flat-square" alt="Nextsell"/>
   </a>
 </p>
 
 <br/>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" /> &nbsp;About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="120"/>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="120"/>
 
 ```yaml
-name: Laura
-username: neymarkirupa
-current_role: Student Developer & Python Enthusiast
+name: Kiruba
+location: Tamil Nadu, India 🇮🇳
+role: Student Entrepreneur & Developer
+venture: Nextsell (nextsell.store)
+mission: "Teaching students how to make their first sale online"
 interests:
-  - 🐍 Python Development
-  - 🤖 Artificial Intelligence & Machine Learning
-  - 🎯 Event Management Systems
-  - 📊 Automation & Data Processing
-fun_fact: "I turn coffee ☕ into code 💻"
-motto: "Code, Create, Conquer 🚀"
+  - 🤖 AI Tools & Automation
+  - 📦 Digital Product Business
+  - ⚙️  n8n Workflow Automation
+  - 🎬 AI Video Creation
+  - 💻 Backend APIs with FastAPI
+fun_fact: "I build tools that teach students to earn online!"
 ```
 
 <br/>
 
-- 🔭 I'm currently working on **AI-powered Event Coordination Tools**
-- 🌱 I'm expanding my knowledge in **Machine Learning & Deep Learning**
-- 👯 I'm looking to collaborate on **Open Source Python Projects**
-- 💬 Ask me about **Python, AI/ML, Event Tech**
-- ⚡ Fun fact: **I love building automation tools that make life easier!**
+- 🎓 Student entrepreneur based in **Tamil Nadu, India**
+- 🚀 Building **[Nextsell](https://nextsell.store)** — a digital product business helping students learn to earn online *(ebooks, guides & resources)*
+- 🤖 Passionate about **AI tools, automation & content creation**
 
 <br/>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Stack
+## 🔥 What I'm Working On
 
-<p align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 🧠 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🗄️ Databases & OS
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</p>
+<table>
+  <tr>
+    <td>📦</td>
+    <td>Growing <b>Nextsell</b> — selling digital products via Payhip, Gumroad & Instagram</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td>Building <b>n8n automation workflows</b> — AI-generated video ads, UGC pipelines, affiliate marketing trackers</td>
+  </tr>
+  <tr>
+    <td>🎬</td>
+    <td>Experimenting with <b>AI video tools</b> — Kling AI, HeyGen, Higgsfield, CapCut</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td>Built a <b>FastAPI-based Technical Event Coordinator</b> project (hackathon submission)</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td>Worked on a <b>Shortest Path Finder</b> project (Graphs / Dijkstra's Algorithm)</td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Divider -->
+**🔭 Currently Exploring:**
+- Prompt & context engineering
+- AI-powered marketing automation
+- Building polished, dashboard-style web experiences
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> &nbsp;GitHub Analytics
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/neymarkirupa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neymarkirupa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" alt="Laura's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neymarkirupa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  </a>
-</p>
+### ⚙️ Backend & Automation
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-<br/>
+### 🤖 AI & LLMs
+![Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge)
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <a href="https://github.com/neymarkirupa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neymarkirupa&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/neymarkirupa">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=neymarkirupa&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Contribution Graph"/>
-  </a>
-</p>
+### 🧰 Tools & Platforms
+![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel_Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Gumroad](https://img.shields.io/badge/-Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)
+![Payhip](https://img.shields.io/badge/-Payhip-0A0A0A?style=for-the-badge)
 
 <br/>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" /> &nbsp;Featured Projects
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neymarkirupa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" alt="Kiruba's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neymarkirupa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neymarkirupa&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neymarkirupa&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neymarkirupa&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ⭐ Featured Projects
 
 <p align="center">
   <a href="https://github.com/neymarkirupa/technical-event-coordinator-final">
@@ -151,36 +170,24 @@ motto: "Code, Create, Conquer 🚀"
 
 <br/>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> &nbsp;GitHub Trophies
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/neymarkirupa">
-    <img src="https://github-profile-trophy.vercel.app/?username=neymarkirupa&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> &nbsp;Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/neymarkirupa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="http://buymeacoffee.com/laura11">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  <a href="https://nextsell.store">
+    <img src="https://img.shields.io/badge/🛒_Nextsell-Visit%20Store-A855F7?style=for-the-badge"/>
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <br/>
@@ -190,20 +197,7 @@ motto: "Code, Create, Conquer 🚀"
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
-<br/>
-
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!%20🌟&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=75" width="100%"/>
-</p>
-
-<!-- Random Dev Quote -->
-<p align="center">
-  <a href="https://github.com/neymarkirupa">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>⭐ If you find my projects interesting, consider giving them a star! ⭐</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=⭐%20Building%20tools%20that%20teach%20students%20to%20earn%20online!&fontSize=16&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" width="100%"/>
 </p>
