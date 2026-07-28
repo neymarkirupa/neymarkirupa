@@ -34,8 +34,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="120"/>
 
 ```yaml
-name: Kiruba
-location: Tamil Nadu, India 🇮🇳
+name: Kirubakaran S L
 role: Student Entrepreneur & Developer
 venture: Nextsell (nextsell.store)
 mission: "Teaching students how to make their first sale online"
