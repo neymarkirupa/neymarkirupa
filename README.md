@@ -134,22 +134,30 @@ tagline: "I build in public and learn as I go ⚡"
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neymarkirupa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=neymarkirupa&theme=radical&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neymarkirupa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00&text_color=C9D1D9&ring_color=FF6B00" alt="Kiruba's GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=neymarkirupa&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neymarkirupa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=FFFFFF" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neymarkirupa&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neymarkirupa&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B00&line=FF6B00&point=FFFFFF" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=neymarkirupa&theme=darkhub&no-frame=true&no-bg=true&column=7&title_color=FF6B00" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neymarkirupa&hide_border=true&bg_color=0D1117&color=FF6B00&line=FF6B00&point=C9D1D9&area=true&area_color=FF6B00" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
