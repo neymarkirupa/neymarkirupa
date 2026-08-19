@@ -120,18 +120,18 @@ tagline: "I build in public and learn as I go ⚡"
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🎯 **[Nextsell](https://nextsell.store)** | Digital product business for students | Gumroad, Payhip, Instagram |
-| 📋 **Technical Event Coordinator** | FastAPI app (Hackathon submission) | Python, FastAPI, Hugging Face |
-| 📝 **Attendance Management System** | Student attendance tracker | Python |
-| 🗺️ **Shortest Path Finder** | Dijkstra's algorithm implementation | Python |
-| 📊 **Excel Power Query Guide** | Dark-themed educational guide | Excel, Content Design |
-| 🤖 **AI Tools Presentation Guide** | Shared with student communities | Canva, AI Tools |
+|  **[Nextsell](https://nextsell.store)** | Digital product business for students | Gumroad, Payhip, Instagram |
+|  **Technical Event Coordinator** | FastAPI app (Hackathon submission) | Python, FastAPI, Hugging Face |
+|  **Attendance Management System** | Student attendance tracker | Python |
+|  **Shortest Path Finder** | Dijkstra's algorithm implementation | Python |
+|  **Excel Power Query Guide** | Dark-themed educational guide | Excel, Content Design |
+|  **AI Tools Presentation Guide** | Shared with student communities | Canva, AI Tools |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
