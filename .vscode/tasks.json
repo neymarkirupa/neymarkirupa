@@ -1,0 +1,32 @@
+﻿{
+    "version":  "2.0.0",
+    "tasks":  [
+                  {
+                      "label":  "Auto Push Now",
+                      "type":  "process",
+                      "command":  "C:\\Users\\slkir\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+                      "args":  [
+                                   "C:\\Users\\slkir\\.autopush\\github_autopush.py",
+                                   "--now"
+                               ],
+                      "problemMatcher":  [
+
+                                         ]
+                  },
+                  {
+                      "label":  "Check C syntax",
+                      "type":  "process",
+                      "command":  "gcc",
+                      "args":  [
+                                   "-Wall",
+                                   "-Wextra",
+                                   "-Wpedantic",
+                                   "-fsyntax-only",
+                                   "app.c"
+                               ],
+                      "problemMatcher":  [
+
+                                         ]
+                  }
+              ]
+}
