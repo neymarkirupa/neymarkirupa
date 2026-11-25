@@ -1,13 +1,5 @@
-<div align="center">
-  <img src="https://github.com/neymarkirupa.png" width="170" height="170" alt="Kirubakaran S L" style="border-radius:50%;border:4px solid #39ff14;box-shadow:0 0 30px #39ff14;"/>
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=700&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=90&lines=01001011+01001001+01010010+01010101+01000010+01000001+01010011;FOUNDER+OF+ELEVEN%20SEVEN;I+BUILD+DIGITAL+STARTUPS+AND+AUTOMATION;NODE.JS+%7C+PYTHON+%7C+FASTAPI+%7C+AI" alt="Animated green binary identity"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001900,100:39ff14&height=130&section=header&text=ELEVENSEVEN&fontSize=52&fontColor=39ff14&animation=twinkling&fontAlignY=58" width="100%"/>
+  <img src="./matrix-profile.gif" width="100%" alt="Green Matrix rain with Kirubakaran S L GitHub avatar"/>
 </p>
 
 <p align="center">
